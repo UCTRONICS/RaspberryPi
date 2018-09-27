@@ -2,6 +2,15 @@
 ## SPI Camera
 - https://github.com/ArduCAM/RaspberryPi/tree/master/SPI_Camera
 
+## Motorized_Focus_Camera
+### Haredware connection
+  Focus Motor      PI
+     SDA           SDA1
+     SCL           SCL1
+    
+  
+
+
 ## Multi_Camera_Adapter_V2
 - This adapter bard just support 5MP
 - http://www.arducam.com/multi-camera-adapter-module-raspberry-pi/#more-952
